@@ -1,0 +1,98 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding: 2%;
+}
+.half-width{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.half img{
+    padding: 9%;
+    width: 70%;
+    height: 80%;
+    border-radius: 30%;
+}
+.border{
+    border-left: 6px solid red;
+    height: 160px;
+    margin-left: 20px;
+    margin-top: -433px;
+    position: absolute;
+}
+.button{
+    text-decoration: none;
+    color: rgb(248, 241, 241);
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+.visit{
+    text-align: center;
+    font-size: 40px;
+}
+.location{
+    width:30%;
+    float: left;
+    margin-left: 2%;
+    padding: 2%;
+    border-radius: 15%;
+}
+.places{
+    margin-top: 5px;
+    padding: 15px;
+    box-shadow: 5px 7px 5px rgb(250, 245, 245);
+    height: 90%;
+}
+#sajek{
+    background-color: rgba(103, 255, 149, 0.932);
+}
+#sajek img{
+    height: 90px;
+    width: 150px;
+    align-items:flex-end;
+}
+#Panchagarh{
+    background-color: rgb(232, 253, 42);
+}
+#Panchagarh img{
+    height: 90px;
+    width: 150px;
+    align-items:flex-end;
+}
+#cox{
+    background-color: rgb(185, 110, 247);
+}
+#cox img{
+    height: 90px;
+    width: 150px;
+    align-items:flex-end;
+}
+.bcb{
+    color: red;
+}
+.team{
+    color: rgb(4, 204, 4);
+}
+.tigers{
+    color: rgb(45, 65, 243);
+}
+footer{
+    background-color: black;
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
